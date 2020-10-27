@@ -8,3 +8,12 @@ Je suis en première générale, plus précisément en 1G6. Comme spécialité, 
 
 J'ai choisi ces spécilitées car j'enviseage de m'orienter dans le commerce pour l'avenir. Les NSI n'ont pas forcément un lien précis avec le commerce, mais j'ai 
 choisi d'en faire car m'enrichir en informatique peut s'avérer précieux pour m'ont avenir.
+
+
+
+Mais ce n'est pas tout. Je ne fais pas que aller à l'école.
+
+  -je joue au foot (voir la photo)
+  -je mange beaucoup
+  -je fais aussi mes devoirs comme tout les étudiants.
+  
