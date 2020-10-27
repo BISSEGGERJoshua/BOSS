@@ -14,6 +14,8 @@ choisi d'en faire car m'enrichir en informatique peut s'avérer précieux pour m
 Mais ce n'est pas tout. Je ne fais pas que aller à l'école.
 
   -je joue au foot (voir la photo)
+  
   -je mange beaucoup
+  
   -je fais aussi mes devoirs comme tout les étudiants.
   
