@@ -22,11 +22,11 @@ Sequence_B = 'F++FF'
 dessiner(Sequence_B,longueur,angle)
 
 def Prebienski(counter,longueur, angle):
-dess-A(longueur,angle)
+dessin 1(longueur,angle)
 for i in range(3):
 if counter>1:
 Prebienski(counter-1,longueur*0.5,angle)
-dess-B(longueur,angle)
+dessin 2(longueur,angle)
 return counter-1
 
 longueur = 128
