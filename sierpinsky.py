@@ -50,8 +50,8 @@ def flocon(motifInitial, niter):
 
 longueur = 10
 angle = -120
-niter = 6
-dessiner(courbesierpinski('F,G', niter), longueur, angle)
+niter = 5
+dessiner(courbesierpinski('F-F-F', niter), longueur, angle)
 
 
 turtle.update()      # accélération du tracé
